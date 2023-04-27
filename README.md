@@ -2,7 +2,7 @@
 
 1. main : select menu
 
-![image](https://user-images.githubusercontent.com/102274136/234840733-10310e43-eb43-4ad5-8c6d-ccbc2ca36ff7.png)
+<img src = "https://user-images.githubusercontent.com/102274136/234840733-10310e43-eb43-4ad5-8c6d-ccbc2ca36ff7.png" width = "200" height  = "400">
 
 2. sign up : sign up(using oracle DB)
 
