@@ -21,4 +21,11 @@ list : ![image](https://user-images.githubusercontent.com/102274136/234841898-87
 4. update
 
 ![image](https://user-images.githubusercontent.com/102274136/234842205-2a2d03b0-0ccc-4c66-9664-230f2b3fb2b2.png)
+![image](https://user-images.githubusercontent.com/102274136/234842602-c70648d5-e2bf-415b-9d33-7f7e3675ab76.png)
 
+![image](https://user-images.githubusercontent.com/102274136/234842660-637f74c6-2f46-448c-83a7-039a54b4a663.png)
+
+5. delete
+
+![image](https://user-images.githubusercontent.com/102274136/234842827-2701422e-b591-4d5d-a9bb-487367cf6fca.png)
+![image](https://user-images.githubusercontent.com/102274136/234842956-c6f76604-33b4-4f1d-80a8-9a6b7cfaa6e2.png)
